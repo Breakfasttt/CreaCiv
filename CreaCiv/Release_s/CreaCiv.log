@@ -1,0 +1,35 @@
+﻿La génération a démarré 15/04/2013 14:52:11.
+     1>Projet "D:\SVN\2012-2013\Sections\Prog3\Colaisseau Yann\Prog\TD\CreaCiv\CreaCiv\CreaCiv\CreaCiv.vcxproj" sur le nœud 2 (build cible(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Le répertoire Output ne se termine pas par une barre oblique finale.  Cette instance de build ajoutera une barre oblique, comme requis, pour permettre l'évaluation correcte du répertoire Output.
+     1>InitializeBuildStatus:
+         Création de "Release_s\CreaCiv.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"D:\SVN\2012-2013\Sections\Prog3\Colaisseau Yann\Prog\TD\CreaCiv\CreaCiv\\bin\Release_s\\..\..\CreaCiv\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D SFML_STATIC /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release_s\\" /Fd"Release_s\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ATH.cpp Game.cpp IA.cpp main.cpp
+         ATH.cpp
+     1>ATH.cpp(167): warning C4482: extension non standard utilisée : enum 'sf::Mouse::Button' utilisé dans le nom qualifié
+         Game.cpp
+         IA.cpp
+         main.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\SVN\2012-2013\Sections\Prog3\Colaisseau Yann\Prog\TD\CreaCiv\CreaCiv\\bin\Release_s\CreaCiv.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"D:\SVN\2012-2013\Sections\Prog3\Colaisseau Yann\Prog\TD\CreaCiv\CreaCiv\\bin\Release_s\\..\..\CreaCiv\lib" "sfml-audio-s.lib" "sfml-graphics-s.lib" "sfml-main.lib" "sfml-system-s.lib" "sfml-window-s.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release_s\CreaCiv.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\SVN\2012-2013\Sections\Prog3\Colaisseau Yann\Prog\TD\CreaCiv\CreaCiv\bin\Release_s\CreaCiv.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\SVN\2012-2013\Sections\Prog3\Colaisseau Yann\Prog\TD\CreaCiv\CreaCiv\\bin\Release_s\CreaCiv.lib" /MACHINE:X86 Release_s\ATH.obj
+         Release_s\DataCenter.obj
+         Release_s\EventManager.obj
+         Release_s\FSM.obj
+         Release_s\Game.obj
+         Release_s\IA.obj
+         Release_s\main.obj
+         Release_s\Map.obj
+     1>LINK : warning LNK4098: conflit entre la bibliothèque par défaut 'LIBCMT' et les autres bibliothèques ; utilisez /NODEFAULTLIB:library
+         Génération de code en cours
+         Fin de la génération du code
+         CreaCiv.vcxproj -> D:\SVN\2012-2013\Sections\Prog3\Colaisseau Yann\Prog\TD\CreaCiv\CreaCiv\\bin\Release_s\CreaCiv.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\SVN\2012-2013\Sections\Prog3\Colaisseau Yann\Prog\TD\CreaCiv\CreaCiv\\bin\Release_s\CreaCiv.exe;#1" /manifest Release_s\CreaCiv.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Suppression du fichier "Release_s\CreaCiv.unsuccessfulbuild".
+         Mise à jour de l'horodatage "Release_s\CreaCiv.lastbuildstate".
+     1>Génération du projet "D:\SVN\2012-2013\Sections\Prog3\Colaisseau Yann\Prog\TD\CreaCiv\CreaCiv\CreaCiv\CreaCiv.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:03.50

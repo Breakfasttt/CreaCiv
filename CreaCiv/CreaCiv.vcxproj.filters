@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\General">
+      <UniqueIdentifier>{db73dd58-66be-4868-95f0-0e37f8435585}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\tools">
+      <UniqueIdentifier>{4a3c0186-add8-4311-9526-91471349d268}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\General">
+      <UniqueIdentifier>{9e11f218-2729-4283-b2b8-3fb459ab97f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\tools">
+      <UniqueIdentifier>{90ec27f6-3f60-4639-a49c-e653baafac18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Map">
+      <UniqueIdentifier>{8e3a7f56-bba5-468b-ac22-aed4d3efe820}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Map">
+      <UniqueIdentifier>{c0ddcfdb-66a5-49cd-8edd-1bd140691dfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\IA">
+      <UniqueIdentifier>{87fcb364-525f-494e-b5f7-8b0015895237}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\IA">
+      <UniqueIdentifier>{377bca47-bbf1-4f51-8584-3e4fc526b540}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\ATH">
+      <UniqueIdentifier>{6854a0f7-1358-4862-b5e9-1fd81f21678a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\ATH">
+      <UniqueIdentifier>{ebaa420d-32e6-46b4-a7ba-bc6b9de9ffc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Unite">
+      <UniqueIdentifier>{75f3d748-54f9-4a5b-8a32-d4c0c9e27a85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Unite">
+      <UniqueIdentifier>{8e30d2b2-d761-400b-8458-358737bfb670}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="EventManager.cpp">
+      <Filter>Fichiers sources\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="FSM.cpp">
+      <Filter>Fichiers sources\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="DataCenter.cpp">
+      <Filter>Fichiers sources\General</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Fichiers sources\General</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Fichiers sources\General</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Fichiers sources\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="IA.cpp">
+      <Filter>Fichiers sources\IA</Filter>
+    </ClCompile>
+    <ClCompile Include="ATH.cpp">
+      <Filter>Fichiers sources\ATH</Filter>
+    </ClCompile>
+    <ClCompile Include="General_Ia.cpp">
+      <Filter>Fichiers sources\IA</Filter>
+    </ClCompile>
+    <ClCompile Include="Guerrier.cpp">
+      <Filter>Fichiers sources\Unite</Filter>
+    </ClCompile>
+    <ClCompile Include="Ville.cpp">
+      <Filter>Fichiers sources\Unite</Filter>
+    </ClCompile>
+    <ClCompile Include="Colon.cpp">
+      <Filter>Fichiers sources\Unite</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DataCenter.hpp">
+      <Filter>Fichiers d%27en-tête\General</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneralConfig.hpp">
+      <Filter>Fichiers d%27en-tête\General</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.hpp">
+      <Filter>Fichiers d%27en-tête\General</Filter>
+    </ClInclude>
+    <ClInclude Include="FSM.hpp">
+      <Filter>Fichiers d%27en-tête\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="EventManager.hpp">
+      <Filter>Fichiers d%27en-tête\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.hpp">
+      <Filter>Fichiers d%27en-tête\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="IA.hpp">
+      <Filter>Fichiers d%27en-tête\IA</Filter>
+    </ClInclude>
+    <ClInclude Include="ATH.hpp">
+      <Filter>Fichiers d%27en-tête\ATH</Filter>
+    </ClInclude>
+    <ClInclude Include="InfosIa.hpp">
+      <Filter>Fichiers d%27en-tête\IA</Filter>
+    </ClInclude>
+    <ClInclude Include="Unite.hpp">
+      <Filter>Fichiers d%27en-tête\Unite</Filter>
+    </ClInclude>
+    <ClInclude Include="General_Ia.hpp">
+      <Filter>Fichiers d%27en-tête\IA</Filter>
+    </ClInclude>
+    <ClInclude Include="Ville.hpp">
+      <Filter>Fichiers d%27en-tête\Unite</Filter>
+    </ClInclude>
+    <ClInclude Include="Colon.hpp">
+      <Filter>Fichiers d%27en-tête\Unite</Filter>
+    </ClInclude>
+    <ClInclude Include="Guerrier.hpp">
+      <Filter>Fichiers d%27en-tête\Unite</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

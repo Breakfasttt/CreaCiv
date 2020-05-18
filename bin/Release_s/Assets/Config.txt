@@ -1,0 +1,22 @@
+// Fichier de config a completer dans cet ordre
+// nom nom (nom de la fenétre)
+// volume "valeur"
+// langue "langue utiliser" (Fr = 0 , En = 1 , De =2 , Sp  = 3)
+// fenetreX "taille de la fenétre en largeur"
+// fenetreY "taille de la fenétre en hauteur"
+// type "type de fenetre" ( default = 0 , fullscreen = 1 )
+/////////////////////////////////////////////////
+
+#beginconfig
+nom CreaCiv_IA_module
+volume 50.0
+langue 0
+fenetreX 1024.0
+fenetreY 720.0
+type 0
+debug 1
+#endconfig
+
+
+
+

@@ -1,0 +1,6 @@
+CASE_EAU Assets/Decors/eau.png
+CASE_PLAINE Assets/Decors/plaine.png
+CASE_FORET Assets/Decors/foret.png
+UNIT_COLON Assets/Characters/Colon.png
+UNIT_GUERRIER Assets/Characters/Guerrier.png
+UNIT_VILLE Assets/Characters/Ville.png

@@ -1,0 +1,9 @@
+HUD_OR Or_:_
+HUD_ORPT Or_par_tour:_
+HUD_ATTI1 _Militariste_:_
+HUD_ATTI2 _Expensionniste_:_
+HUD_ATTI3 _Negociant_:_
+HUD_ATTI4 _Croissance_:_
+HUD_PLUS +
+HUD_MOINS -
+HUD_PASSERTOUR Tour_suivant

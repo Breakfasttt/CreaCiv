@@ -1,0 +1,19 @@
+//////////////////////////////////////////////////////////////
+Chaque key pour une phrase/mots doit etre présente dans les 4 fichiers langues
+exemple :
+
+Fichier Fr : 
+INSTRUCTION_MENU Bienvenue!
+Fichier En : 
+INSTRUCTION_MENU Welcome!
+Fichier De : 
+INSTRUCTION_MENU Wilkommen!
+Fichier Sp : 
+INSTRUCTION_MENU Bondia!
+
+//////////////////////////////////////////////////////////////
+
+les espace seront remplacé par '_' et les saut de ligne par @
+
+exemple :
+EXEMPLE_INFOS : Cliquer_ici_pour_jouer_!@Vous_allez_vous_amuser_!

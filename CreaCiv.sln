@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CreaCiv", "CreaCiv\CreaCiv.vcxproj", "{613DBEB1-2CEB-4519-A06C-0F8FEEB3BB82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_s|Win32 = Debug_s|Win32
+		Debug|Win32 = Debug|Win32
+		Release_s|Win32 = Release_s|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{613DBEB1-2CEB-4519-A06C-0F8FEEB3BB82}.Debug_s|Win32.ActiveCfg = Debug_s|Win32
+		{613DBEB1-2CEB-4519-A06C-0F8FEEB3BB82}.Debug_s|Win32.Build.0 = Debug_s|Win32
+		{613DBEB1-2CEB-4519-A06C-0F8FEEB3BB82}.Debug|Win32.ActiveCfg = Debug|Win32
+		{613DBEB1-2CEB-4519-A06C-0F8FEEB3BB82}.Debug|Win32.Build.0 = Debug|Win32
+		{613DBEB1-2CEB-4519-A06C-0F8FEEB3BB82}.Release_s|Win32.ActiveCfg = Release_s|Win32
+		{613DBEB1-2CEB-4519-A06C-0F8FEEB3BB82}.Release_s|Win32.Build.0 = Release_s|Win32
+		{613DBEB1-2CEB-4519-A06C-0F8FEEB3BB82}.Release|Win32.ActiveCfg = Release|Win32
+		{613DBEB1-2CEB-4519-A06C-0F8FEEB3BB82}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

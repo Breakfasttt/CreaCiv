@@ -1,0 +1,12 @@
+FLOAT MAP_ancre_x 0.0
+FLOAT MAP_ancre_y 0.0
+INT IA_INIT_OR 10
+INT IA_INIT_OR_PAR_TOUR 1
+FLOAT HUD_Ancre_attitudes_x 5.0
+FLOAT HUD_Ancre_attitudes_y 250.0
+FLOAT HUD_Decal_bouton 35.0
+FLOAT HUD_Decal_Text 35.0
+FLOAT HUD_Ancre_infos_ia_x 820.0
+FLOAT HUD_Ancre_infos_ia_y 85.0
+FLOAT HUD_Ancre_Passer_x 820.0
+FLOAT HUD_Ancre_Passer_y 25.0
